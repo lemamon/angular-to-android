@@ -1,4 +1,4 @@
-# Turn your angular app to android app
+# Turn your angular app in to android app
 
 To build this project
 
